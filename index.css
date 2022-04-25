@@ -1,0 +1,26 @@
+.contenedor{
+    margin-top: 5px; 
+    padding: 10px;
+    height: 90vh;
+
+}
+
+.marginComponent{
+    margin-bottom: 5px;
+}
+
+.mapContainer{
+    /*height: 80vh;
+    width: 100%;
+    padding: 10px;*/
+    background-color:rgb(226, 226, 226);
+    border-radius: 3%;
+}
+
+.row > div{
+    background: #81878a;
+    padding: 30px;
+    
+ 
+    
+}
